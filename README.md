@@ -9,7 +9,7 @@ go get github.com/chitranshu/htime
 
 ## Example
 
-``` 
+``` go
 package main
 
 import (
@@ -40,7 +40,7 @@ func main() {
 ```
 
 #### Output
-```
+``` bash
 2020/12/11 16:01:52 30s
 2020/12/11 16:01:52 30m0s
 2020/12/11 16:01:52 3h0m0s
